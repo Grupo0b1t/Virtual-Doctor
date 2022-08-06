@@ -3,13 +3,13 @@
 # Machine Learning - Virtual Doctor #
 
 ## Tabela de conteúdos
-- - - -
 * [Informações Gerais](#informações-gerais)
 * [Tecnologias](#tecnologias)
 * [Instalação](#instalação)
 
-## Informações gerais
 - - - -
+
+## Informações gerais
 Esse script realiza um pré-diagnóstico de diabetes com base nos valores de glicemia coletados quando o paciente está em jejum, pós-sobrecarga e em glicemia casual.\
 \
 Ele é capaz de dizer se o paciente tem:
@@ -18,11 +18,9 @@ Ele é capaz de dizer se o paciente tem:
 * Diabetes Mellitus (DM)
 
 ## Tecnologias
-- - - -
 Esse projeto foi criado com:
 * Python 3.10.4
 
 ## Instalação
-- - - -
 1. Faça o download e instale [Python](https://www.python.org/downloads/) em seu computador
 2. Faça o download do `diagnosis.py` e simplesmente abra-o
