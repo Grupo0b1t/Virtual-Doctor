@@ -1,4 +1,4 @@
-<p align="right"><strong>English</strong> | <a href="INSERIR LINK .MD PT-BR">Português</a></p>
+<p align="right"><strong>English</strong> | <a href="https://github.com/Grupo0b1t/Virtual-Doctor/blob/main/README-PT.md">Português</a></p>
 
 # Machine Learning - Virtual Doctor #
 
